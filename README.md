@@ -15,4 +15,4 @@ Kunjungi [BstYyy](https://bestymega.github.io/L0124007_BestyMegaFauziah_Learning
 
 ---
 
-Dikembangkan oleh *Besty Mega Fauziah* pada Learning Labs Frontend 2024.
+Dikembangkan oleh **Besty Mega Fauziah** pada Learning Labs Frontend 2024.
